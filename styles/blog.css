@@ -1,4 +1,7 @@
-.mam{
-    border: 20px solid green;
-    background-color: brown;
+div{
+    border: 10px solid brown;
+    background-color: green;
+    margin-bottom:20px;
+    border-radius: 10px;
+
 }
